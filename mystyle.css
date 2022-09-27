@@ -1,0 +1,10 @@
+.mystyle {
+    height: 60px;
+    padding: 0 1.55em;
+    font-size: 18px;
+    line-height: 1.2em;
+    color: var(--white);
+    background-color: var(--red);
+    border-radius: 30px;
+    border: none;
+}
